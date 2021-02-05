@@ -1,0 +1,96 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+}
+#image1{
+    margin-top: 200px;
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+#welcome{
+    position: absolute;
+    height: 800px;
+    color: aquamarine;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background: linear-gradient(#03f4fc 0%, #1ca32c 100%);
+}
+#h1{
+    font-family: 'audiowide';
+}
+#bio{
+    padding: 50px;
+    background-color: antiquewhite;
+}
+.menu{
+    font-family: 'Nerko One';
+    position: fixed;
+    z-index: 10;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    background-color: gray;
+}
+.links:hover{
+    background-color: olivedrab;
+    text-decoration: underline;
+}
+.links{
+    color: firebrick;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: 'Nerko One';
+    font-size: 20px;
+    display: inline;
+}
+.writing:hover{
+    color: darkolivegreen;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#h3{
+    font-family: 'barrio';
+}
+#h4{
+    font-family: 'Black Ops One';
+}
+#h5{
+    font-family: 'Roboto Mono';
+}
+#h7{
+    font-family: 'Black Ops One';
+}
+#h8{
+    font-family: 'Barrio';
+}
+#h9{
+    font-family: 'Roboto Mono';
+}
+#h10{
+    font-family: 'Black Ops One';
+}
+#h11{
+    font-family: 'Barrio';
+}
+#imge2{
+    width: 20px;
+    height: 20px;
+}
+#h12{
+    font-family: 'Black Ops One';
+}
+#h13{
+    font-family: 'Barrio';
+}
+#h14{
+    font-family: 'Roboto mono';
+}
